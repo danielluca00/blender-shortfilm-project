@@ -12,6 +12,6 @@ A short animated film about an emotional and slightly ironic interaction between
 - Open with Blender (version 5.0.1 recommended).
 
 ## Authors
-- <Daniel Luca>
-- <Elena Maestosi>
-- <Alexis Martinez>
+- Daniel Luca
+- Elena Maestosi
+- Alexis Martinez
