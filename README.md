@@ -10,3 +10,8 @@ A short animated film about an emotional and slightly ironic interaction between
 
 ## Notes
 - Open with Blender (version 5.0.1 recommended).
+
+## Authors
+- <Daniel Luca>
+- <Elena Maestosi>
+- <Alexis Martinez>
